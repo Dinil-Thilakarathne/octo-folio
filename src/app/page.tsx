@@ -41,7 +41,7 @@ export default function Home() {
             </span>
           </div>
           <h1 className="text-4xl md:text-6xl font-bold tracking-tighter bg-clip-text text-transparent bg-gradient-to-r from-primary to-primary/60">
-            DevFolio
+            OctoFolio
           </h1>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
             Turn your GitHub profile into a stunning developer portfolio.
